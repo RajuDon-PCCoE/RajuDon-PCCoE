@@ -13,10 +13,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java 
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | Java | C
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
 - 🛢 &nbsp; MySQL | PL/SQL
-- 🔧 &nbsp; AWS | DJANGO | GIT/GITHUB | CI/CD
+- 🔧 &nbsp; DJANGO | Flask | AWS | PowerBI | CI/CD
  
 
 
